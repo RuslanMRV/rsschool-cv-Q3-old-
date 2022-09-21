@@ -4,7 +4,7 @@
  * Location: Kharkiv, Ukraine
  * Email: 0509828909x@gmail.com
  * Phone: +380509828909
- * [**GitHub**] (адрес https://github.com/RuslanMRV)
+ * [**GitHub**] (https://github.com/RuslanMRV)
 
  ### About Me
 I have knowledge of HTML, CSS and basic JavaScript (Basic). I
